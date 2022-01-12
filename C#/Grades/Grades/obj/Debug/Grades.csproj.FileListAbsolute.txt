@@ -1,0 +1,12 @@
+C:\test\C#\Grades\Grades\bin\Debug\Grades.exe.config
+C:\test\C#\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\test\C#\Grades\Grades\bin\Debug\Grades.exe
+C:\test\C#\Grades\Grades\bin\Debug\Grades.pdb
+C:\test\C#\Grades\Grades\obj\Debug\Grades.exe
+C:\test\C#\Grades\Grades\obj\Debug\Grades.pdb
+S:\Coding Practices\C#\Grades\Grades\bin\Debug\Grades.exe.config
+S:\Coding Practices\C#\Grades\Grades\bin\Debug\Grades.exe
+S:\Coding Practices\C#\Grades\Grades\bin\Debug\Grades.pdb
+S:\Coding Practices\C#\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+S:\Coding Practices\C#\Grades\Grades\obj\Debug\Grades.exe
+S:\Coding Practices\C#\Grades\Grades\obj\Debug\Grades.pdb

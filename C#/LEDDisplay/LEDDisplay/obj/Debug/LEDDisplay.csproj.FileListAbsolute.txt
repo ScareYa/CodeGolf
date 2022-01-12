@@ -1,0 +1,6 @@
+C:\test\C#\LEDDisplay\LEDDisplay\bin\Debug\LEDDisplay.exe.config
+C:\test\C#\LEDDisplay\LEDDisplay\bin\Debug\LEDDisplay.exe
+C:\test\C#\LEDDisplay\LEDDisplay\bin\Debug\LEDDisplay.pdb
+C:\test\C#\LEDDisplay\LEDDisplay\obj\Debug\LEDDisplay.csprojResolveAssemblyReference.cache
+C:\test\C#\LEDDisplay\LEDDisplay\obj\Debug\LEDDisplay.exe
+C:\test\C#\LEDDisplay\LEDDisplay\obj\Debug\LEDDisplay.pdb

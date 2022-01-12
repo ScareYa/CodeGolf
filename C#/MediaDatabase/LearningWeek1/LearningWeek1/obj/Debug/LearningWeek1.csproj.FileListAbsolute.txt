@@ -1,0 +1,7 @@
+C:\test\MediaDatabase\LearningWeek1\LearningWeek1\bin\Debug\LearningWeek1.exe.config
+C:\test\MediaDatabase\LearningWeek1\LearningWeek1\bin\Debug\LearningWeek1.exe
+C:\test\MediaDatabase\LearningWeek1\LearningWeek1\bin\Debug\LearningWeek1.pdb
+C:\test\MediaDatabase\LearningWeek1\LearningWeek1\obj\Debug\LearningWeek1.csprojResolveAssemblyReference.cache
+C:\test\MediaDatabase\LearningWeek1\LearningWeek1\obj\Debug\LearningWeek1.exe
+C:\test\MediaDatabase\LearningWeek1\LearningWeek1\obj\Debug\LearningWeek1.pdb
+C:\test\MediaDatabase\LearningWeek1\LearningWeek1\bin\Debug\Colorful.Console.dll
