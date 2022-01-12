@@ -1,6 +1,0 @@
-\\cig.local\Data\Userhomes\WillD\Coding Practices\ContactManager\ContactManager\bin\Debug\ContactManager.exe.config
-\\cig.local\Data\Userhomes\WillD\Coding Practices\ContactManager\ContactManager\bin\Debug\ContactManager.exe
-\\cig.local\Data\Userhomes\WillD\Coding Practices\ContactManager\ContactManager\bin\Debug\ContactManager.pdb
-\\cig.local\Data\Userhomes\WillD\Coding Practices\ContactManager\ContactManager\obj\Debug\ContactManager.csprojResolveAssemblyReference.cache
-\\cig.local\Data\Userhomes\WillD\Coding Practices\ContactManager\ContactManager\obj\Debug\ContactManager.exe
-\\cig.local\Data\Userhomes\WillD\Coding Practices\ContactManager\ContactManager\obj\Debug\ContactManager.pdb
