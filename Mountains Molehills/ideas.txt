@@ -1,0 +1,39 @@
+﻿      *
+  ^  ^#
+ ^#~~##^    ^
+ ###~###~~~~#
+^#########~##^
+##############^
+###############
+
+      *
+  ^  ^M
+ ^M~~MM^    ^
+ MMM~MMM~~~~M
+^MMMMMMMMM~MM^
+MMMMMMMMMMMMMM^
+MMMMMMMMMMMMMMM
+
+      *
+  ^  ^H
+ ^H~~HH^    ^
+ HHH~HHH~~~~H
+^HHHHHHHHH~HH^
+HHHHHHHHHHHHHH^
+HHHHHHHHHHHHHHH
+
+      ░
+  ^  ^m
+ ^m~~mm^    ^
+ mmm~mmm~~~~m
+^mmmmmmmmm~mm^
+mmmmmmmmmmmmmm^
+mmmmmmmmmmmmmm▓
+
+      
+      ░
+  ░~~░░      
+ ▓▓▓~▓▓▓~~~~▓
+^▓▓▓▓▓▓▓▓▓~▓▓^
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓^
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓

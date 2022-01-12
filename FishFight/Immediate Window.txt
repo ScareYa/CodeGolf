@@ -1,0 +1,7 @@
+? Main(new string[] {"><5> ><5> ><99>"})
+
+? Main(new string[] {"><1> ><4> ><2> ><50>"})
+
+? Main(new string[] {"><9> ><5> ><11> ><4>"})
+
+>cls

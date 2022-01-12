@@ -1,0 +1,7 @@
+S:\Coding Practices\FishFight\FishFight\bin\Debug\FishFight.exe.config
+S:\Coding Practices\FishFight\FishFight\bin\Debug\FishFight.exe
+S:\Coding Practices\FishFight\FishFight\bin\Debug\FishFight.pdb
+S:\Coding Practices\FishFight\FishFight\obj\Debug\FishFight.csprojAssemblyReference.cache
+S:\Coding Practices\FishFight\FishFight\obj\Debug\FishFight.csproj.CoreCompileInputs.cache
+S:\Coding Practices\FishFight\FishFight\obj\Debug\FishFight.exe
+S:\Coding Practices\FishFight\FishFight\obj\Debug\FishFight.pdb

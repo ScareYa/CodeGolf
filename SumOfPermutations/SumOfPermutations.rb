@@ -1,0 +1,1 @@
+puts ARGV[0].split('').permutation.map{|b| b.join.to_i}.sum
