@@ -1,0 +1,8 @@
+S:\Coding Practices\CryptoPalsChallenge\CryptoPalsChallenge\bin\Debug\CryptoPalsChallenge.exe.config
+S:\Coding Practices\CryptoPalsChallenge\CryptoPalsChallenge\bin\Debug\CryptoPalsChallenge.exe
+S:\Coding Practices\CryptoPalsChallenge\CryptoPalsChallenge\bin\Debug\CryptoPalsChallenge.pdb
+S:\Coding Practices\CryptoPalsChallenge\CryptoPalsChallenge\bin\Debug\CryptoFunctions.dll
+S:\Coding Practices\CryptoPalsChallenge\CryptoPalsChallenge\bin\Debug\CryptoFunctions.pdb
+S:\Coding Practices\CryptoPalsChallenge\CryptoPalsChallenge\obj\Debug\CryptoPalsChallenge.exe
+S:\Coding Practices\CryptoPalsChallenge\CryptoPalsChallenge\obj\Debug\CryptoPalsChallenge.pdb
+S:\Coding Practices\CryptoPalsChallenge\CryptoPalsChallenge\obj\Debug\CryptoPalsChallenge.csprojResolveAssemblyReference.cache

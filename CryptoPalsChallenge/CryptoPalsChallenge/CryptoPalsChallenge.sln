@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoPalsChallenge", "CryptoPalsChallenge.csproj", "{11C6500F-3383-45E9-83AE-1FA9153BE811}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoFunctions", "..\CryptoFunctions\CryptoFunctions.csproj", "{299ECE82-42FE-4B3F-B5C9-5408DF34FBA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11C6500F-3383-45E9-83AE-1FA9153BE811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C6500F-3383-45E9-83AE-1FA9153BE811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C6500F-3383-45E9-83AE-1FA9153BE811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C6500F-3383-45E9-83AE-1FA9153BE811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{299ECE82-42FE-4B3F-B5C9-5408DF34FBA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299ECE82-42FE-4B3F-B5C9-5408DF34FBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299ECE82-42FE-4B3F-B5C9-5408DF34FBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299ECE82-42FE-4B3F-B5C9-5408DF34FBA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

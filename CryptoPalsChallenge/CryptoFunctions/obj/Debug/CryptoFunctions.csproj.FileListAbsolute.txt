@@ -1,0 +1,5 @@
+S:\Coding Practices\CryptoPalsChallenge\CryptoFunctions\bin\Debug\CryptoFunctions.dll
+S:\Coding Practices\CryptoPalsChallenge\CryptoFunctions\bin\Debug\CryptoFunctions.pdb
+S:\Coding Practices\CryptoPalsChallenge\CryptoFunctions\obj\Debug\CryptoFunctions.csprojResolveAssemblyReference.cache
+S:\Coding Practices\CryptoPalsChallenge\CryptoFunctions\obj\Debug\CryptoFunctions.dll
+S:\Coding Practices\CryptoPalsChallenge\CryptoFunctions\obj\Debug\CryptoFunctions.pdb

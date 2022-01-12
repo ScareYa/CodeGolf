@@ -1,0 +1,13 @@
+\\cig.local\Data\Userhomes\WillD\Coding Practices\Eeeevil\Eeeevil\bin\Debug\Eeeevil.exe.config
+\\cig.local\Data\Userhomes\WillD\Coding Practices\Eeeevil\Eeeevil\bin\Debug\Eeeevil.exe
+\\cig.local\Data\Userhomes\WillD\Coding Practices\Eeeevil\Eeeevil\bin\Debug\Eeeevil.pdb
+\\cig.local\Data\Userhomes\WillD\Coding Practices\Eeeevil\Eeeevil\obj\Debug\Eeeevil.csprojResolveAssemblyReference.cache
+\\cig.local\Data\Userhomes\WillD\Coding Practices\Eeeevil\Eeeevil\obj\Debug\Eeeevil.exe
+\\cig.local\Data\Userhomes\WillD\Coding Practices\Eeeevil\Eeeevil\obj\Debug\Eeeevil.pdb
+S:\Coding Practices\Eeeevil\Eeeevil\bin\Debug\Eeeevil.exe.config
+S:\Coding Practices\Eeeevil\Eeeevil\bin\Debug\Eeeevil.exe
+S:\Coding Practices\Eeeevil\Eeeevil\bin\Debug\Eeeevil.pdb
+S:\Coding Practices\Eeeevil\Eeeevil\obj\Debug\Eeeevil.csprojAssemblyReference.cache
+S:\Coding Practices\Eeeevil\Eeeevil\obj\Debug\Eeeevil.csproj.CoreCompileInputs.cache
+S:\Coding Practices\Eeeevil\Eeeevil\obj\Debug\Eeeevil.exe
+S:\Coding Practices\Eeeevil\Eeeevil\obj\Debug\Eeeevil.pdb
