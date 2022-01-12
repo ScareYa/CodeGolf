@@ -1,0 +1,18 @@
+C:\test\CLR\CLRDB_Test\bin\Debug\CLRDB_Test.dll
+C:\test\CLR\CLRDB_Test\bin\Debug\CLRDB_Test.pdb
+C:\test\CLR\CLRDB_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\test\CLR\CLRDB_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\test\CLR\CLRDB_Test\obj\Debug\CLRDB_Test.csprojResolveAssemblyReference.cache
+C:\test\CLR\CLRDB_Test\obj\Debug\CLRDB_Test.dll
+C:\test\CLR\CLRDB_Test\obj\Debug\CLRDB_Test.pdb
+C:\test\CLR\CLRDB_Test\bin\Debug\CLRDB_Test.dll.config
+C:\test\CLR\CLRDB_Test\obj\Debug\CLRDB_Test.Procedure1.resources
+C:\test\CLR\CLRDB_Test\obj\Debug\CLRDB_Test.csproj.GenerateResource.Cache
+S:\Coding Practices\CLR\CLRDB_Test\bin\Debug\CLRDB_Test.dll.config
+S:\Coding Practices\CLR\CLRDB_Test\bin\Debug\CLRDB_Test.dll
+S:\Coding Practices\CLR\CLRDB_Test\bin\Debug\CLRDB_Test.pdb
+S:\Coding Practices\CLR\CLRDB_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+S:\Coding Practices\CLR\CLRDB_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+S:\Coding Practices\CLR\CLRDB_Test\obj\Debug\CLRDB_Test.csprojResolveAssemblyReference.cache
+S:\Coding Practices\CLR\CLRDB_Test\obj\Debug\CLRDB_Test.dll
+S:\Coding Practices\CLR\CLRDB_Test\obj\Debug\CLRDB_Test.pdb

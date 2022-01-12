@@ -1,0 +1,28 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [CLRDB] (Assembly)
+     Create
+       [CLRDB] (Assembly)
+       [dbo].[CountSpaces] (Aggregate)
+
+** Supporting actions
+     Drop
+       [dbo].[TestAgg] (Aggregate)
+       [dbo].[CLRProc] (Procedure)
+       [dbo].[SelectTest] (Procedure)
+       [dbo].[AcceptArg] (Procedure)
+     Create
+       [dbo].[TestAgg] (Aggregate)
+       [dbo].[CLRProc] (Procedure)
+       [dbo].[SelectTest] (Procedure)
+       [dbo].[AcceptArg] (Procedure)

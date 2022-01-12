@@ -1,0 +1,18 @@
+C:\test\CLR\CLRDB\bin\Debug\CLRDB.dacpac
+C:\test\CLR\CLRDB\bin\Debug\CLRDB.dll
+C:\test\CLR\CLRDB\bin\Debug\CLRDB.pdb
+C:\test\CLR\CLRDB\obj\Debug\CLRDB.dll
+C:\test\CLR\CLRDB\obj\Debug\CLRDB.pdb
+C:\test\CLR\CLRDB\obj\Debug\Model.xml
+C:\test\CLR\CLRDB\obj\Debug\refactor.xml
+C:\test\CLR\CLRDB\obj\Debug\postdeploy.sql
+C:\test\CLR\CLRDB\obj\Debug\predeploy.sql
+S:\Coding Practices\CLR\CLRDB\bin\Debug\CLRDB.dacpac
+S:\Coding Practices\CLR\CLRDB\bin\Debug\CLRDB.dll
+S:\Coding Practices\CLR\CLRDB\bin\Debug\CLRDB.pdb
+S:\Coding Practices\CLR\CLRDB\obj\Debug\CLRDB.dll
+S:\Coding Practices\CLR\CLRDB\obj\Debug\CLRDB.pdb
+S:\Coding Practices\CLR\CLRDB\obj\Debug\Model.xml
+S:\Coding Practices\CLR\CLRDB\obj\Debug\refactor.xml
+S:\Coding Practices\CLR\CLRDB\obj\Debug\postdeploy.sql
+S:\Coding Practices\CLR\CLRDB\obj\Debug\predeploy.sql
