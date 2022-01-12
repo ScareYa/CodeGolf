@@ -1,0 +1,1 @@
+﻿cmdkey /list | where {$_ -match 'LegacyGeneric'} | foreach { cmdkey /delete "$($_.split()[-1])" }

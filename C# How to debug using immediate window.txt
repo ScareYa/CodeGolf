@@ -1,0 +1,11 @@
+https://blog.oz-code.com/using-immediate-window-debug-code-design-time/
+https://stackoverflow.com/questions/794255/how-do-you-use-the-immediate-window-in-visual-studio
+
+Debug > Windows > Immediate Window
+
+e.g:
+
+>cls
+
+? Main();
+? Main(new string[] {"><9> ><5> ><11> ><4>"})
