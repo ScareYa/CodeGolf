@@ -1,0 +1,7 @@
+\\cig.local\Data\Userhomes\WillD\Coding Practices\Caffeine\Caffeine\bin\Debug\Caffeine.exe.config
+\\cig.local\Data\Userhomes\WillD\Coding Practices\Caffeine\Caffeine\bin\Debug\Caffeine.exe
+\\cig.local\Data\Userhomes\WillD\Coding Practices\Caffeine\Caffeine\bin\Debug\Caffeine.pdb
+\\cig.local\Data\Userhomes\WillD\Coding Practices\Caffeine\Caffeine\obj\Debug\Caffeine.exe
+\\cig.local\Data\Userhomes\WillD\Coding Practices\Caffeine\Caffeine\obj\Debug\Caffeine.pdb
+\\cig.local\Data\Userhomes\WillD\Coding Practices\Caffeine\Caffeine\obj\Debug\Caffeine.csproj.CoreCompileInputs.cache
+\\cig.local\Data\Userhomes\WillD\Coding Practices\Caffeine\Caffeine\obj\Debug\Caffeine.csprojAssemblyReference.cache
